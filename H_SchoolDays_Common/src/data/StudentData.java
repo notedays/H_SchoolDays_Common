@@ -1,10 +1,8 @@
 package data;
 
-import java.util.Set;
-
 import com.himaginus.common.data.ResponseData;
 
-public class StudentData implements ResponseData {
+public class StudentData extends ResponseData {
 
 	private static final long serialVersionUID = 1L;
 
