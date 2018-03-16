@@ -1,4 +1,4 @@
-package data;
+package com.himaginus.common.goback.data;
 
 import com.himaginus.common.data.ResponseData;
 
